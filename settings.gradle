@@ -1,3 +1,7 @@
 rootProject.name = 'HY_JAVA34'
+include 'HW3'
+include 'HW4'
+include 'Homework4'
+include 'HW7'
 include 'HW5'
 include 'HW8'
